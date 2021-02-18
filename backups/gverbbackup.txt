@@ -1,0 +1,69 @@
+gehen, to go, 0
+sehen, to see, 0
+spielen, to play, 1
+essen, to eat, 1
+haben, to have, 2
+schlafen, to sleep, 2
+trinken, to drink, 0
+wissen, to know, 1
+glauben, to believe, 0
+schwimmen, to swim, 2
+bringen, to bring, 1
+sprechen, to speak, 0
+leben, to live, 1
+heißen, to be called, 2
+lassen, to let, 0
+stehen, to stand, 0
+sollen, should, 0
+finden, to find, 1
+wollen, to want, 1
+finden, to find, 1
+bleiben, to stay, 1
+liegen, to lie, 0
+denken, to think, 1
+nehman, to take, 0
+tun, to do, 1
+dürfen, to be allowed, 0
+halten, to stop, 0
+nennen, to name, 0
+mögen, to like, 0
+fahren, to drive, 1
+meinen, to have an opinion, 0
+sein, to be, 2
+singen, to sing, 0
+schwitzen, to sweat, 0
+frieren, to be cold, 1
+duschen, to shower, 1
+frühstücken, to eat breakfast, 1
+kochen, to cook, 0
+lesen, to read, 0
+putzen, to clean, 0
+einkaufen, to shop, 0
+einkaufen gehen, to go shopping, 1
+bezahlen, to pay, 0
+verkaufen, to sell, 0
+diskutieren, to discuss, 0
+debatieren, to debate, 0
+verhandeln, to barter, 0
+tauschen, to trade, 0
+treffen, to meet, 1
+unterhalten, to chat, 0
+umarmen, to hug, 0
+grüßen, to greet, 0
+verabschieden, to say goodbye, 0
+vermissen, to miss, 0
+gratulieren, to congratulate, 0
+
+spülen, to rinse, 0
+schaffen, to manage, 0
+vergleichen, to compare, 0
+verlieren, to lose, 0
+helfen, to help, 0
+ansehen, to look at, 0
+studieren, to study, 0
+werden, to become, 0
+können, can, 0
+machen, to do, 0
+müssen, to have to, 0
+geben, to give, 0
+kommen, to come, 0

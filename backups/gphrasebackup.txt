@@ -1,0 +1,5 @@
+Ich komme morgen an., I arrive tomorrow., 0
+Der Moment ist persönlich., The moment is private., 0
+Ruft mich heute Abend an., Call me tonight., 0
+Ihr seid früh., You're here early., 0
+Sie isst jeden Morgen Jogurt., She eats yoghurt every morning., 0
